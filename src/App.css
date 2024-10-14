@@ -1,0 +1,43 @@
+/* Center the main content */
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #e5f2f3; /* Light background color */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Button styles */
+button {
+  margin: 5px;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none; /* Remove default border */
+  border-radius: 5px; /* Rounded corners */
+  background-color: #e5f2f3;
+  transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker shade on hover */
+}
+
+/* Header styles */
+h1, h2, h3, h4 {
+  color: #01333e; /* Dark teal color */
+  margin: 10px 0; /* Margin for spacing */
+  font-family: 'Arial', sans-serif; /* Ensure font consistency */
+}
+
+/* Additional styling for the counter and step selector */
+.counter-container, .step-selector {
+  margin: 20px 0; /* Spacing between elements */
+  padding: 1rem; /* Inner padding */
+  border: 1px solid #ccc; /* Light border */
+  border-radius: 8px; /* Rounded corners */
+  background-color: #ffffff; /* White background */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Light shadow */
+}
