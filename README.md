@@ -20,7 +20,7 @@ This is a simple counter app built with React and Vite, containerized using Dock
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/my-counter-app.git
+git clone https://github.com/Dhananjaykul/my-counter-app.git
 cd my-counter-app
 ```
 
