@@ -63,6 +63,6 @@ This guide covers the following steps:
 4. **Automated Builds with GitHub Webhooks:**  
    - Triggers the pipeline automatically when changes are pushed to the GitHub repository.
 
-This setup demonstrates end-to-end automation by integrating Docker, Jenkins, and GitHub. Stay tuned for further updates, where we will explore advanced features like Kubernetes for scalability and automated scanning tools.
+This setup demonstrates end-to-end automation by integrating Docker, Jenkins, and GitHub. Stay tuned for further updates, where we will explore advanced features like Kubernetes for scalability and much more.
 
 
